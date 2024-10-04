@@ -27,10 +27,10 @@
     <header> <!--Cabeçalho-->
       <nav class="menu"> <!--Navegação-->
         <ul>
-          <li><a href="https://ge.globo.com"><FONT FACE="Garamond"><font color="white">Ge sport</FONT></FONT></li>
-          <li><a href="https://www.youtube.com/@MuriBR14"><FONT FACE="Garamond"><font color="white">Youtube</font></FONT></li>
-          <li><a href="https://www.instagram.com/mouratoops/"><FONT FACE="Garamond"><font color="white">Instagram</FONT></FONT></li>
-          <li><a href=""><FONT FACE="Garamond"><font color="white">Só pra completar</FONT></FONT></li>
+          <li><a href=""><FONT FACE="Garamond"><font color="white">inicio</FONT></FONT></li>
+          <li><a href="file:///C:/Users/Aluno/Desktop/mourato.html"><FONT FACE="Garamond"><font color="white">Sobre mim</font></FONT></li>
+          <li><a href=""><FONT FACE="Garamond"><font color="white">Estudos</FONT></FONT></li>
+          <li><a href=""><FONT FACE="Garamond"><font color="white">Futebol</FONT></FONT></li>
         </ul>
       </nav>
     </header>
