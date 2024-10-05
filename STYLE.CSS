@@ -21,7 +21,7 @@ h2 {
 
 h1 {
   color: rgb(38, 135, 78);
-  text-shadow: rgb(103, 79, 172) 0.1em 0.1em 0.3em; 
+  text-shadow: rgb(150, 147, 147) 0.1em 0.1em 0.3em; 
 }
 
 body {
@@ -65,4 +65,14 @@ body, h1, h2 {
   font-family: 'Roboto', serif;
   font-weight: 500;
 }
+
+
+p1 {
+  color: rgb(38, 135, 78);
+}
+
+p2 {
+  color: rgb(0, 0, 0);
+}
+
 
