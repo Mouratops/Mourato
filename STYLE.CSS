@@ -21,12 +21,11 @@ h2 {
 
 h1 {
   color: rgb(38, 135, 78);
-  text-shadow: rgb(150, 147, 147) 0.1em 0.1em 0.3em; 
+  text-shadow: rgb(211, 211, 211) 0.1em 0.1em 0.3em; 
 }
 
 body {
   background-color: rgb(153, 232, 157); 
-  background-image: url("messi_barcelona.jpg"); 
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -69,12 +68,18 @@ body, h1, h2 {
 
 p1 {
   color: rgb(38, 135, 78);
+  text-shadow: rgb(211, 211, 211) 0.1em 0.1em 0.3em;
 }
 
 p2 {
   color: rgb(0, 0, 0);
+  text-shadow: rgb(255, 255, 255) 0.1em 0.1em 0.3em;
 }
 
+p3 {
+  color: rgb(0, 0, 0);
+  text-shadow: rgb(211, 211, 211) 0.1em 0.1em 0.3em;
+}
 
 
 
