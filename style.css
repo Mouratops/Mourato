@@ -20,7 +20,7 @@
   
   h1 {
     color: rgb(38, 135, 78);
-    text-shadow: rgb(211, 211, 211) 0.1em 0.1em 0.3em; 
+    text-shadow: #d3d3d3 0.1em 0.1em 0.3em; 
   }
   
   body {
@@ -88,5 +88,3 @@
   form {
     color: rgb(0, 0, 0);
   }
-
- 
