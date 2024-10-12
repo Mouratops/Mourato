@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+  <title>Nada ainda</title>
+ 
+</head>
+<body>
+  <h1>
+    <p align="center">
+      
+        <FONT FACE="Garamond"><font size="300px">MOURATO🕊</font>
+      
+    </p>
+  </h1>
+  <h2>
+    <header>
+      <nav class="menu">
+        <ul>
+          <li><a href="index.html">Início📌</a></li>
+          <li><a href="html.html" >Sobre mim✝</a></li>
+          <li><a href="input.html">Futebol⚽</a></li>
+          <li><a href="contato.html" >Contato✝</a></li>
+        </ul>
+      </nav>
+    </header>
+  </h2>
+
+<body>
+    <h3>
+    <p4 align="center">
+      
+        <FONT FACE="Garamond"><font size="300px">Teste</font>
+    
+    </p4>
+    </h3>
+      
+    
+    <!-- Texto -->
+    <form>
+        <label for="nome">Primeiro nome:</label>
+        <input type="text" name="nome">
+
+        <!-- Senha -->
+        <label for="senha">Senha:</label>
+        <input type="password" name="senha">
+
+        <!-- data -->
+        <label for="data">Data de nascimento:</label>
+        <input type="date" name="data" min="1950-01-01" max="2014-01-01">
+
+        <!-- email -->
+        <label for="email">Email:</label>
+        <input type="email" name="email">
+
+        <!-- telefone -->
+        <label for="telefone">Telefone:</label>
+        <input type="tel" name="tel" placeholder="(XX) XXXXX-XXXX">
+
+        <!-- Botão enviar -->
+        <input type="submit" name="Enviar">
+        <button type="submit" name="Enviar">Enviar</button>
+
+        <!-- Dropdown -->
+        <select name="estado">
+            <option value="SP">São Paulo</option>
+            <option value="SC">Santa Catarina</option>
+            <option value="MG">Minas Gerais</option>
+        </select>
+    </form>
+
+</body>
+
+</html>
