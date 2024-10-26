@@ -1,7 +1,9 @@
+
 .fundo {
     display: flex;
     justify-content: center; 
     margin-top: 100px; 
+    
   }
   
   .fundo img {
@@ -27,6 +29,8 @@
     background-color: rgb(153, 232, 157); 
     background-repeat: no-repeat;
     background-size: cover;
+    
+    
   }
   
   .menu {
@@ -78,7 +82,7 @@
   
   p3 {
     color: rgb(0, 0, 0);
-    text-shadow: rgb(211, 211, 211) 0.1em 0.1em 0.3em;
+    text-shadow: #d3d3d3 0.1em 0.1em 0.3em;
   }
   
   #container {
@@ -89,3 +93,16 @@
   form {
     color: rgb(0, 0, 0);
   }
+
+  .botao{
+    border: solid 1px rgb(255, 255, 255);
+    border-radius: 20px;
+    color: rgb(38, 135, 78);
+    background-color: white;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+}
+.botao:hover{
+    background-color: rgb(8, 199, 68);
+    color: white;
+    transform: scale(1.2)
+}
