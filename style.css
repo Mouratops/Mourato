@@ -1,4 +1,5 @@
 
+
 .fundo {
     display: flex;
     justify-content: center; 
@@ -10,23 +11,30 @@
     max-width: 20%;  
     height: auto;    
     border-radius: 80px;
-    box-shadow: 0 80px 160px rgb(153, 232, 157); 
+    box-shadow: 0 80px 160px #ef6c00; 
+  }
+
+  h3 {
+    position: relative;
+    right: 20px;
+    top: 50%;
+    font-size: 20px;
   }
   
   h2 {
-    background-color: rgb(115, 200, 142);
+    background-color: #ef6c00;
     opacity: 1;
-    border: 2px solid rgb(115, 200, 142); 
+    border: 2px solid #e65100; 
     box-shadow: 5px 10px rgba(0, 0, 0, 0.5); 
   }
   
   h1 {
-    color: rgb(38, 135, 78);
+    color: #000000;
     text-shadow: #d3d3d3 0.1em 0.1em 0.3em; 
   }
   
   body {
-    background-color: rgb(153, 232, 157); 
+    background-color: #ffffff; 
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -34,15 +42,15 @@
   }
   
   .menu {
-    background-color: rgb(115, 200, 142);
-    border-bottom: 4px solid rgb(115, 200, 142); 
+    background-color: #ef6c00;
+    border-bottom: 4px solid #ef6c00; 
   }
   
   .menu ul {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    text-shadow: rgb(211, 211, 211) 0.1em 0.1em 0.3em;
+    text-shadow: #808080 0.1em 0.1em 0.3em;
   }
   
   .menu li {
@@ -51,7 +59,7 @@
   
   a {
     text-decoration: none;
-    color: rgb(38, 135, 78); 
+    color: #000000; 
     font-weight: bold;
   }
   
@@ -70,13 +78,13 @@
   
   
   p1 {
-    color: rgb(38, 135, 78);
+    color: #000000;
     text-shadow: rgb(211, 211, 211) 0.1em 0.1em 0.3em;
   }
   
   p2 {
     color: rgb(0, 0, 0);
-    text-shadow: rgb(255, 255, 255) 0.1em 0.1em 0.3em;
+    text-shadow: #808080 0.1em 0.1em 0.3em;
     font-size: 150%;
   }
   
@@ -105,4 +113,13 @@
     background-color: rgb(8, 199, 68);
     color: white;
     transform: scale(1.2)
+}
+
+p3 {
+    font-size: 200%;
+}
+
+.bola{
+    display: flex;
+    justify-content: right;
 }
