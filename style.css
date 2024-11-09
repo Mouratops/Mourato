@@ -38,8 +38,6 @@ body {
   background-color: #ffffff; 
   background-repeat: no-repeat;
   background-size: cover;
-  
-  
 }
 
 .menu {
@@ -84,8 +82,7 @@ p1 {
 }
 
 p2 {
-  color: rgb(0, 0, 0);
-  text-shadow: #808080 0.1em 0.1em 0.3em;
+  color: black;
   font-size: 150%;
 }
 
@@ -93,6 +90,7 @@ p3 {
   color: rgb(0, 0, 0);
   text-shadow: #d3d3d3 0.1em 0.1em 0.3em;
   font-size: 200%;
+ 
 }
 
 #container {
@@ -142,8 +140,14 @@ p4 {
   font-size: 200%;
 }
 
-.vertical{
-  width: 1px;
-  height: 1000px;
-  background-color: rgb(114, 114, 114);
+.eu {
+  display: flex;
+  justify-content: right;
+  font-size: 90%;
 }
+
+.carreira {
+  display: flex;
+  justify-content: right;
+}
+
